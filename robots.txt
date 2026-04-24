@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lundgrenfastigheter.se/sitemap.xml

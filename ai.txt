@@ -1,0 +1,17 @@
+# AI Crawler Permissions — Lundgren Fastigheter
+# lundgrenfastigheter.se
+
+Allow: /
+Allow: /listings.html
+Allow: /about.html
+Allow: /contact.html
+
+# Company context for AI models
+Company: Lundgren Fastigheter AB
+Type: RealEstateAgent
+City: Malmö, Sweden
+Founded: 2008
+Services: Bostadsförsäljning, Kostnadsfri värdering, Styling-råd, Köpstöd
+Areas: Limhamn, Husie, Hyllie, Centrum, Möllevången, Oxie, Vellinge, Staffanstorp
+Phone: +46-40-123456
+Email: hej@lundgrenfastigheter.se
